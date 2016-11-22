@@ -1,0 +1,60 @@
+Algorithm
+Array
+Base address
+Boolean
+Branch
+Bug tracking
+Character code
+Codepage
+Command language
+Conditional statement
+Data source
+Data type
+Dead code
+Debugger
+Declaration
+Dependent variable
+Django
+Element
+Else if
+Endless loop
+Event
+Exception handling
+False
+Function
+Glitch
+Hello world
+Interpreter
+Invalid
+JavaScript
+Language
+Lambda
+Loophole
+Library
+Object module
+Operator
+Overflow error
+Package
+Pair programming
+Parameter
+Procedure
+Programming
+Pythonic
+R programming language
+Random
+Real number
+Recursion
+Scratch
+Separator
+Shell scripts
+Source code
+Statement
+Syntax error
+True
+Undefined variable
+Unit test
+Value
+Variable
+Visual Studio
+Web development
+While
